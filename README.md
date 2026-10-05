@@ -181,7 +181,3 @@ Das Script prüft Anmeldung, Verzeichnislisten, Änderungszeiten, Verzeichnisers
 - Die Ausgabe des nativen sftp-Clients muss teilweise geparst werden. Je nach OpenSSH-Version und Serverausgabe können zusätzliche Anpassungen nötig sein.
 - Passwort-Authentifizierung mit sshpass ist aus Sicherheitsgründen nur als Übergangslösung geeignet.
 - Host-Key-Prüfung ist standardmäßig deaktiviert und sollte für streng abgesicherte Umgebungen angepasst werden.
-
-## Lizenz
-
-Es ist derzeit keine Lizenz festgelegt. Vor der Veröffentlichung sollte eine passende Open-Source-Lizenz ergänzt werden.
