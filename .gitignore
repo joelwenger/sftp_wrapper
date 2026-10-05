@@ -1,0 +1,18 @@
+# Credentials and local configuration
+.env
+.env.*
+*.local.php
+credentials.php
+prompt.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+sftp_wrapper_test.txt
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
